@@ -1,0 +1,1847 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inform",
+				"informacao"
+			],
+			[
+				"info",
+				"informacao"
+			],
+			[
+				"infro",
+				"informacao"
+			],
+			[
+				"infor",
+				"informacao"
+			],
+			[
+				"resource",
+				"resources"
+			],
+			[
+				"fil",
+				"fileType"
+			],
+			[
+				"au",
+				"auditoria"
+			],
+			[
+				"aud",
+				"auditorias"
+			],
+			[
+				"wei",
+				"writeln  (function)"
+			],
+			[
+				"diff",
+				"diffInterval"
+			],
+			[
+				"ema",
+				"emailsEnviados"
+			],
+			[
+				"dif",
+				"diffInterval"
+			],
+			[
+				"pla",
+				"planejamento"
+			],
+			[
+				"plane",
+				"planejamento"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"dele",
+				"deleted"
+			],
+			[
+				"enti",
+				"entidade"
+			],
+			[
+				"sistem",
+				"sistema_usuario_new"
+			],
+			[
+				"ent",
+				"entities  (variable)"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"ar",
+				"arTmp"
+			],
+			[
+				"ere",
+				"ereg_replace"
+			],
+			[
+				"valida",
+				"validaErrosForm"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"par",
+				"parse_str"
+			],
+			[
+				"ano",
+				"anoSessao"
+			],
+			[
+				"val",
+				"valuesCriteria"
+			],
+			[
+				"url",
+				"urlAuditoria"
+			],
+			[
+				"Per",
+				"Percentagem"
+			],
+			[
+				"Primár",
+				"Primária"
+			],
+			[
+				"entidade",
+				"p_entidade"
+			],
+			[
+				"getData",
+				"getDataPrevista"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"open",
+				"open-menu"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"getD",
+				"getDivisaoAtividade"
+			],
+			[
+				"do",
+				"documentacao"
+			],
+			[
+				"div",
+				"divId"
+			],
+			[
+				"getNumero",
+				"getNumeroProtocolo"
+			],
+			[
+				"getResu",
+				"getResultadoDesejado"
+			],
+			[
+				"forma",
+				"format"
+			],
+			[
+				"getDaa",
+				"getDataInicialAvaliacao"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"re",
+				"ready  (function)"
+			],
+			[
+				"head",
+				"header  (element)"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"fa",
+				"float"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"va",
+				"valuesRequest  (variable)"
+			],
+			[
+				"valu",
+				"valuesRequest"
+			],
+			[
+				"entti",
+				"entity  (variable)"
+			],
+			[
+				"chil",
+				"children  (function)"
+			],
+			[
+				"form",
+				"formAuditoria"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"set",
+				"setMask"
+			],
+			[
+				"ser",
+				"servicos"
+			],
+			[
+				"comportamentoPorc",
+				"comportamentoPorcTotal"
+			],
+			[
+				"comportamentoPor",
+				"comportamentoPorcLegislativo"
+			],
+			[
+				"receita",
+				"receitaLiquida"
+			],
+			[
+				"to",
+				"toFixed"
+			],
+			[
+				"tama",
+				"tamHeigthAside"
+			],
+			[
+				"tam",
+				"tamHeigthAside"
+			],
+			[
+				"pro",
+				"projetoAtividade"
+			],
+			[
+				"Pro",
+				"ProjetoAtividade"
+			],
+			[
+				"divis",
+				"divisoes"
+			],
+			[
+				"data",
+				"data-mask"
+			],
+			[
+				"pre",
+				"previsto"
+			],
+			[
+				"sis",
+				"sintese"
+			],
+			[
+				"valo",
+				"valorPrevisto"
+			],
+			[
+				"valor",
+				"valorRealizado"
+			],
+			[
+				"values",
+				"valuesFormAux"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"divi",
+				"divisoes"
+			],
+			[
+				"get",
+				"getDoctrine  (function)"
+			],
+			[
+				"getQuery",
+				"getQueryJson"
+			],
+			[
+				"ma",
+				"manifestacaoValue"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"crea",
+				"createQueryBuilder"
+			],
+			[
+				"plan",
+				"planejamento"
+			],
+			[
+				"org",
+				"orgaos"
+			],
+			[
+				"orgao",
+				"orgaos"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"parame",
+				"parametroEntity"
+			],
+			[
+				"item",
+				"itemVerificacaoEntity"
+			],
+			[
+				"arT",
+				"arTmpItens"
+			],
+			[
+				"itemPa",
+				"itemParametroEntity"
+			],
+			[
+				"ite",
+				"itemVerificacao"
+			],
+			[
+				"ItemPara",
+				"ItemParametroVerificacao"
+			],
+			[
+				"Enti",
+				"entityValidation"
+			],
+			[
+				"find",
+				"findBy"
+			],
+			[
+				"Parametro",
+				"ParametroVerificacao"
+			],
+			[
+				"itens",
+				"itensParametro"
+			],
+			[
+				"itemP",
+				"ItemParametro"
+			],
+			[
+				"Parame",
+				"ParametroVerificacao"
+			],
+			[
+				"edit",
+				"editForm"
+			],
+			[
+				"Param",
+				"ParametroVerificacao"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"Ite",
+				"ItemParametroVerificacao"
+			],
+			[
+				"Para",
+				"ParametroVerificacao"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"de",
+				"descricao  (variable)"
+			],
+			[
+				"all",
+				"allowed"
+			],
+			[
+				"al",
+				"allowed"
+			],
+			[
+				"att",
+				"attrProtocolo"
+			],
+			[
+				"fi",
+				"fieldOrder  (variable)"
+			],
+			[
+				"divisao",
+				"divisao"
+			],
+			[
+				"Docume",
+				"Documento"
+			],
+			[
+				"getRe",
+				"getRequest"
+			],
+			[
+				"Control",
+				"ControleInterno"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"value",
+				"valueNumero"
+			],
+			[
+				"vale",
+				"valueNumero"
+			],
+			[
+				"base",
+				"baseURL  (variable)"
+			],
+			[
+				"en",
+				"entity"
+			],
+			[
+				"create",
+				"createView"
+			],
+			[
+				"Te",
+				"TecnicaAuditoria"
+			],
+			[
+				"reque",
+				"requestValues  (variable)"
+			],
+			[
+				"tec",
+				"tecnicaAuditoria"
+			],
+			[
+				"entit",
+				"entities"
+			],
+			[
+				"Contro",
+				"ControleInterno"
+			],
+			[
+				"numero",
+				"numeroProtocolo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1652,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/informacao/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 664,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/informacao/show.html.erb",
+			"settings":
+			{
+				"buffer_size": 241,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/informacao_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1009,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/informacao/edit.html.erb",
+			"settings":
+			{
+				"buffer_size": 733,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/informacao/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 754,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/informacao.rb",
+			"settings":
+			{
+				"buffer_size": 219,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/disciplina_controller.rb",
+			"settings":
+			{
+				"buffer_size": 922,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/disciplina.rb",
+			"settings":
+			{
+				"buffer_size": 81,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "db/migrate/20150518223330_create_informacaos.rb",
+			"settings":
+			{
+				"buffer_size": 196,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "db/migrate/20150519233329_create_disciplinas.rb",
+			"settings":
+			{
+				"buffer_size": 259,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/database.yml",
+			"settings":
+			{
+				"buffer_size": 650,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: d",
+				"Snippet: var_dump"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/davi/Desenvolvimento/pucrs-sys-dev/db/migrate/20150518223330_create_informacaos.rb",
+		"/home/davi/Desenvolvimento/pucrs-sys-dev/app/views/informacao/_form.html.erb",
+		"/home/davi/Desenvolvimento/pucrs-sys-dev/app/controllers/informacao_controller.rb",
+		"/home/davi/Desenvolvimento/pucrs-sys-dev/config/routes.rb",
+		"/home/davi/Desenvolvimento/pucrs-sys-dev/db/migrate/20150515031050_create_informacaos.rb",
+		"/home/davi/Desenvolvimento/pucrs-sys-dev/app/views/informacao/show.html.erb",
+		"/home/davi/Desenvolvimento/pucrs-sys-dev/app/views/informacao/new.html.erb",
+		"/home/davi/Desenvolvimento/pucrs-sys-dev/app/models/informacao.rb",
+		"/home/davi/Desenvolvimento/pucrs-sys-dev/app/views/informacoes/show.html.erb",
+		"/home/davi/Desenvolvimento/pucrs-sys-dev/app/views/informacoes/new.html.erb",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/RelatorioBundle/Resources/public/js/relatorio.js",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/AuditoriaController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/OrgaoController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/Orgao.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/Servidor.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/Auditoria.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/AuditoriaRepository.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/Planejamento.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/PlanejamentoRepository.php",
+		"/home/davi/Desenvolvimento/SISAudin/vendor/symfony/symfony/src/Symfony/Component/Routing/Router.php",
+		"/home/davi/Desenvolvimento/SISAudin/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Routing/Router.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/ControleInterno.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/SistemaBundle/Entity/Configuracao.php",
+		"/home/davi/Desenvolvimento/SISAudin/app/config/config.yml",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/PlanejamentoController.php",
+		"/home/davi/Desenvolvimento/SISAudin/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Message.php",
+		"/home/davi/Desenvolvimento/SISAudin/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/SimpleMessage.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/SistemaBundle/Command/VerificaDatasCommand.php",
+		"/home/davi/Desenvolvimento/SISAudin/app/AppKernel.php",
+		"/home/davi/Desenvolvimento/SISAudin/composer.json",
+		"/home/davi/Desenvolvimento/SISAudin/vendor/swiftmailer/swiftmailer/lib/dependency_maps/message_deps.php",
+		"/home/davi/Desenvolvimento/SISAudin/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/DateTime.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/DocumentosModulo/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/SistemaBundle/Form/PermissoesType.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/SistemaBundle/Controller/PermissaoController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/SistemaBundle/Controller/UsuarioController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/DocumentosController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Form/DocumentosType.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/Documentos.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/Documentacao.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/Documentos/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/TecnicaAuditoria/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/Recurso/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/ParametroVerificacao/check.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/Parametro/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/Secao/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/Setor/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/Servidor/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/ProjetoAtividade/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/Encaminhamento/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/public/css/main.css",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/public/bootstrap-3.3.4/dist/css/bootstrap.css",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/public/bootstrap-table-master/dist/bootstrap-table.js",
+		"/home/davi/Desenvolvimento/SISAudin/app/Resources/views/base.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/public/js/main.js",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/Funcao/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/Auditoria/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/Manifestacao/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/Planejamento/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/Orgao/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/ControleInterno/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/Auditoria/indexDefault.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/SistemaBundle/Component/Authentication/LoginSuccessHandler.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/Encaminhamento.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/Manifestacao.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/EncaminhamentoRepository.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/ManifestacaoController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/ManifestacaoRepository.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/EncaminhamentoController.php",
+		"/home/davi/Desenvolvimento/SISAudin/app/config/parameters.yml",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/ParametroVerificacao.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/Parametro.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/SistemaBundle/Entity/GrupoUsuario.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/RelatorioBundle/Controller/ServidorController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/SistemaBundle/Resources/public/js/usuario.js",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/Entidade.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/SistemaBundle/Resources/views/Usuario/change_password.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/SistemaBundle/Resources/views/Usuario/new.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/DefaultController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/SistemaBundle/Resources/views/Default/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/SistemaBundle/Entity/Usuario.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/SistemaBundle/Resources/views/Usuario/emailNovoUsuario.txt.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/RelatorioBundle/Controller/ParametroController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/Default/email.txt.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/ItemParametroVerificacao.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/ItemParametro.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/AcompanhamentoController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/views/Auditoria/indexCustoBeneficio.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/Setor.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/AuditoriaCustoBeneficio.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Form/AuditoriaCustoBeneficioType.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Form/AuditoriaCustoBeneficioSecaoServicoType.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/public/css/auditoria.css",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Resources/public/js/auditoria.js",
+		"/home/davi/Desenvolvimento/SISAudin/web/bundles/relatorio/js/auditoria.js",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/SistemaBundle/Form/UsuarioType.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/SistemaBundle/Controller/GrupoUsuarioController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/SistemaBundle/Resources/views/Permissao/edit.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/SistemaBundle/Entity/Permissao.php",
+		"/home/davi/Desenvolvimento/SISAudin/sql/scriptAcesso.sql",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/ControleInternoController.php",
+		"/home/davi/Desenvolvimento/SISAudin/vendor/mpdf/mpdf/includes/functions.php",
+		"/home/davi/Desenvolvimento/SISAudin/createPackage.sh",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/TecnicaAuditoriaController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/RecursoController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/ParametroVerificacaoController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/ParametroController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/SecaoController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/Secao.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/Servico.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/SetorController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/ServidorController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/FuncaoController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Controller/ProjetoAtividadeController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/Base/Controller/BaseController.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/RelatorioBundle/Resources/views/Default/index.html.twig",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/ProjetoAtividade.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/Funcao.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/AuditoriaLegislacaoServidor.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/AuditoriaMetaGovernamentalProjeto.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/AuditoriaMetaPrimariaSintese.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/AuditoriaMetaNominalSintese.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/AuditoriaAplicacaoRecursoAplicacao.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/Recurso.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/AuditoriaRequerimentoSolicitado.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/AuditoriaGastoEducacaoSintese.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/AuditoriaCustoBeneficioServico.php",
+		"/home/davi/Desenvolvimento/SISAudin/src/CIA/AdministracaoBundle/Entity/AuditoriaMetaBimestralSintese.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/davi/Desenvolvimento/pucrs-sys-dev/",
+			"/home/davi/Desenvolvimento/SISAudin/",
+			"/home/davi/Desenvolvimento/SISAudin/src/",
+			"/home/davi/Desenvolvimento/SISAudin/",
+			"/home/davi/Desenvolvimento/SISAudin/src/",
+			"/home/davi/Desenvolvimento/SISAudin/",
+			"/home/davi/Desenvolvimento/cia/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"adapter",
+			"mysql",
+			"2.4",
+			"symfony/framework-standard-edition",
+			"Swift_Mime_SimpleMessage",
+			"Swift_Message",
+			"());",
+			"context",
+			"findB",
+			"body",
+			"label{",
+			"<div class=\"label-filtro\">Filtro</div>",
+			"_observacao",
+			"sistema_usuario_grupo",
+			"grupo",
+			"usuarios",
+			"verificacao",
+			"div.list",
+			"error_reporting",
+			"head",
+			">>>>",
+			"<<<<",
+			"sistema.usuario_permissao",
+			"Util::",
+			"Util",
+			"new Doctrine\\ORM\\Configuration",
+			"$evm = new Doctrine\\Common\\EventManager();",
+			"Doctrine\\Common\\EventManager",
+			"Gedmo\\Loggable\\LoggableListener",
+			"LoggableListener",
+			"f1",
+			"F1",
+			"matricula",
+			"head",
+			"error_bubbling",
+			"addError",
+			"$this->errors",
+			"$form->getErrors()",
+			"avante",
+			"formEncaminar",
+			"divisaoId",
+			"getExecutado",
+			"getSubTotal",
+			"%;\n",
+			";\n",
+			"180",
+			"web",
+			"close",
+			"buttonModal",
+			"height",
+			"input",
+			"label",
+			"$planejamento->getManifestacoes()->toArray()",
+			"getPro",
+			"buttonModal",
+			"ul",
+			"404",
+			"table",
+			"date",
+			"ManyToMany",
+			"cascade={",
+			"<td>{{ form_widget(doc.file) }}</td>",
+			"limpar",
+			"documenta",
+			"Servidor",
+			"();\n",
+			"Arquivo",
+			"type=\"decimal\"",
+			"decimal",
+			"onKernelRequest",
+			"database_name",
+			"parameter",
+			"divisao",
+			"}\n",
+			"excluir",
+			"{{ value",
+			"error_bubbling",
+			"select.servico_servico",
+			"orgao",
+			"$form ",
+			"resposta",
+			"mpdf",
+			"console",
+			"custobeneficio",
+			"projeto",
+			"sinteses",
+			";\n",
+			"signed",
+			"porcentagem",
+			"signed-decimal",
+			"realizado",
+			"sintese_realizado",
+			"dump",
+			"administracao_auditoria_meta_bimestral_porcentagem",
+			"auditoria",
+			"ORM\\OneToOne",
+			"        \n",
+			"Type",
+			"')\n",
+			"true",
+			"OrderBy",
+			"load",
+			"cia_administracao_planejamento_findjson",
+			"Não",
+			"dump",
+			"numeroP",
+			"numeroProtocolo",
+			"lpad",
+			"pad",
+			"focusout",
+			"page",
+			"error_reporting",
+			"trigger_error",
+			"E_DEPRECATED",
+			"error_reporting",
+			"init_set",
+			"getServicos",
+			"setor",
+			"tecnicaAuditoria",
+			"Selecione",
+			"always",
+			"'';\n",
+			"getEntities",
+			"ferramenta",
+			"<<<<<<<",
+			"id",
+			"Setor",
+			"$form->errors"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 1652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/informacao/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								511,
+								511
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/informacao/show.html.erb",
+					"settings":
+					{
+						"buffer_size": 241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/controllers/informacao_controller.rb",
+					"settings":
+					{
+						"buffer_size": 1009,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								874,
+								874
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/informacao/edit.html.erb",
+					"settings":
+					{
+						"buffer_size": 733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								684,
+								684
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/informacao/new.html.erb",
+					"settings":
+					{
+						"buffer_size": 754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								460,
+								460
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/models/informacao.rb",
+					"settings":
+					{
+						"buffer_size": 219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/controllers/disciplina_controller.rb",
+					"settings":
+					{
+						"buffer_size": 922,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/models/disciplina.rb",
+					"settings":
+					{
+						"buffer_size": 81,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "db/migrate/20150518223330_create_informacaos.rb",
+					"settings":
+					{
+						"buffer_size": 196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "db/migrate/20150519233329_create_disciplinas.rb",
+					"settings":
+					{
+						"buffer_size": 259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "config/database.yml",
+					"settings":
+					{
+						"buffer_size": 650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"crea",
+				"db/migrate/20150519233329_create_disciplinas.rb"
+			],
+			[
+				"disci",
+				"app/models/disciplina.rb"
+			],
+			[
+				"disciplic",
+				"app/controllers/disciplina_controller.rb"
+			],
+			[
+				"create",
+				"db/migrate/20150518223330_create_informacaos.rb"
+			],
+			[
+				"inf",
+				"app/models/informacao.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"show",
+				"app/views/informacao/show.html.erb"
+			],
+			[
+				"new.",
+				"app/views/informacao/new.html.erb"
+			],
+			[
+				"info",
+				"app/models/informacao.rb"
+			],
+			[
+				"informacoes_contro",
+				"app/controllers/informacoes_controller.rb"
+			],
+			[
+				"default",
+				"src/CIA/RelatorioBundle/Controller/DefaultController.php"
+			],
+			[
+				"auditoria.html",
+				"src/CIA/RelatorioBundle/Resources/views/Default/auditoria.html.twig"
+			],
+			[
+				"default/inde",
+				"src/CIA/RelatorioBundle/Resources/views/Default/index.html.twig"
+			],
+			[
+				"defaultcontroller",
+				"src/CIA/RelatorioBundle/Controller/DefaultController.php"
+			],
+			[
+				"controleinterno.html",
+				"src/CIA/RelatorioBundle/Resources/views/Default/controleInterno.html.twig"
+			],
+			[
+				"auditoriacontro",
+				"src/CIA/AdministracaoBundle/Controller/AuditoriaController.php"
+			],
+			[
+				"appker",
+				"app/AppKernel.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"orgaoconroller",
+				"src/CIA/AdministracaoBundle/Controller/OrgaoController.php"
+			],
+			[
+				"configuracao",
+				"src/CIA/SistemaBundle/Entity/Configuracao.php"
+			],
+			[
+				"orgao",
+				"src/CIA/AdministracaoBundle/Entity/Orgao.php"
+			],
+			[
+				"plane",
+				"src/CIA/AdministracaoBundle/Entity/Planejamento.php"
+			],
+			[
+				"servidor",
+				"src/CIA/AdministracaoBundle/Entity/Servidor.php"
+			],
+			[
+				"auditoria",
+				"src/CIA/AdministracaoBundle/Entity/Auditoria.php"
+			],
+			[
+				"auditoriare",
+				"src/CIA/AdministracaoBundle/Entity/AuditoriaRepository.php"
+			],
+			[
+				"planejam",
+				"src/CIA/AdministracaoBundle/Entity/Planejamento.php"
+			],
+			[
+				"planejamentore",
+				"src/CIA/AdministracaoBundle/Entity/PlanejamentoRepository.php"
+			],
+			[
+				"datetime",
+				"vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/DateTime.php"
+			],
+			[
+				"router",
+				"vendor/symfony/symfony/src/Symfony/Component/Routing/Router.php"
+			],
+			[
+				"control",
+				"src/CIA/AdministracaoBundle/Entity/ControleInterno.php"
+			],
+			[
+				"config.",
+				"app/config/config.yml"
+			],
+			[
+				"planejamentocontro",
+				"src/CIA/AdministracaoBundle/Controller/PlanejamentoController.php"
+			],
+			[
+				"verifica",
+				"src/CIA/SistemaBundle/Command/VerificaDatasCommand.php"
+			],
+			[
+				"base",
+				"app/Resources/views/base.html.twig"
+			],
+			[
+				"documentaca",
+				"src/CIA/AdministracaoBundle/Entity/Documentacao.php"
+			],
+			[
+				"main.js",
+				"src/CIA/AdministracaoBundle/Resources/public/js/main.js"
+			],
+			[
+				"documentosmodulo/inde",
+				"src/CIA/AdministracaoBundle/Resources/views/DocumentosModulo/index.html.twig"
+			],
+			[
+				"permissoe",
+				"src/CIA/SistemaBundle/Form/PermissoesType.php"
+			],
+			[
+				"permissaocontroller",
+				"src/CIA/SistemaBundle/Controller/PermissaoController.php"
+			],
+			[
+				"usuariocontro",
+				"src/CIA/SistemaBundle/Controller/UsuarioController.php"
+			],
+			[
+				"documentoscontroller",
+				"src/CIA/AdministracaoBundle/Controller/DocumentosController.php"
+			],
+			[
+				"documentost",
+				"src/CIA/AdministracaoBundle/Form/DocumentosType.php"
+			],
+			[
+				"documentos/index",
+				"src/CIA/AdministracaoBundle/Resources/views/Documentos/index.html.twig"
+			],
+			[
+				"tecnicaauditora/in",
+				"src/CIA/AdministracaoBundle/Resources/views/TecnicaAuditoria/index.html.twig"
+			],
+			[
+				"recurso/inde",
+				"src/CIA/AdministracaoBundle/Resources/views/Recurso/index.html.twig"
+			],
+			[
+				"check",
+				"src/CIA/AdministracaoBundle/Resources/views/ParametroVerificacao/check.html.twig"
+			],
+			[
+				"parametro/inde",
+				"src/CIA/AdministracaoBundle/Resources/views/Parametro/index.html.twig"
+			],
+			[
+				"secao/index",
+				"src/CIA/AdministracaoBundle/Resources/views/Secao/index.html.twig"
+			],
+			[
+				"setor/index",
+				"src/CIA/AdministracaoBundle/Resources/views/Setor/index.html.twig"
+			],
+			[
+				"servidor/index",
+				"src/CIA/AdministracaoBundle/Resources/views/Servidor/index.html.twig"
+			],
+			[
+				"auditoria/inde",
+				"src/CIA/AdministracaoBundle/Resources/views/Auditoria/index.html.twig"
+			],
+			[
+				"funcao/inde",
+				"src/CIA/AdministracaoBundle/Resources/views/Funcao/index.html.twig"
+			],
+			[
+				"projetoatividade/inde",
+				"src/CIA/AdministracaoBundle/Resources/views/ProjetoAtividade/index.html.twig"
+			],
+			[
+				"orgao/index",
+				"src/CIA/AdministracaoBundle/Resources/views/Orgao/index.html.twig"
+			],
+			[
+				"encaminhamento/inde",
+				"src/CIA/AdministracaoBundle/Resources/views/Encaminhamento/index.html.twig"
+			],
+			[
+				"main.css",
+				"src/CIA/AdministracaoBundle/Resources/public/css/main.css"
+			],
+			[
+				"manifestacao/inde",
+				"src/CIA/AdministracaoBundle/Resources/views/Manifestacao/index.html.twig"
+			],
+			[
+				"auditoria/index",
+				"src/CIA/AdministracaoBundle/Resources/views/Auditoria/index.html.twig"
+			],
+			[
+				"indexde",
+				"src/CIA/AdministracaoBundle/Resources/views/Auditoria/indexDefault.html.twig"
+			],
+			[
+				"planejamento/index",
+				"src/CIA/AdministracaoBundle/Resources/views/Planejamento/index.html.twig"
+			],
+			[
+				"bootstrap.css",
+				"src/CIA/AdministracaoBundle/Resources/public/bootstrap-3.3.4/dist/css/bootstrap.css"
+			],
+			[
+				"controleinterno/inde",
+				"src/CIA/AdministracaoBundle/Resources/views/ControleInterno/index.html.twig"
+			],
+			[
+				"bootstrap-ta",
+				"src/CIA/AdministracaoBundle/Resources/public/bootstrap-table-master/dist/bootstrap-table.js"
+			],
+			[
+				"login",
+				"src/CIA/SistemaBundle/Component/Authentication/LoginSuccessHandler.php"
+			],
+			[
+				"encaminhamento/ind",
+				"src/CIA/AdministracaoBundle/Resources/views/Encaminhamento/index.html.twig"
+			],
+			[
+				"manifeta",
+				"src/CIA/AdministracaoBundle/Entity/Manifestacao.php"
+			],
+			[
+				"encamin",
+				"src/CIA/AdministracaoBundle/Entity/Encaminhamento.php"
+			],
+			[
+				"encaminhamento",
+				"src/CIA/AdministracaoBundle/Entity/EncaminhamentoRepository.php"
+			],
+			[
+				"param",
+				"app/config/parameters.yml"
+			],
+			[
+				"confi",
+				"app/config/config.yml"
+			],
+			[
+				"manifestacaore",
+				"src/CIA/AdministracaoBundle/Entity/ManifestacaoRepository.php"
+			],
+			[
+				"manifestacao",
+				"src/CIA/AdministracaoBundle/Controller/ManifestacaoController.php"
+			],
+			[
+				"parametroverificac",
+				"src/CIA/AdministracaoBundle/Entity/ParametroVerificacao.php"
+			],
+			[
+				"pla",
+				"src/CIA/AdministracaoBundle/Entity/Planejamento.php"
+			],
+			[
+				"parametro",
+				"src/CIA/AdministracaoBundle/Entity/Parametro.php"
+			],
+			[
+				"parametrocontro",
+				"src/CIA/RelatorioBundle/Controller/ParametroController.php"
+			],
+			[
+				"grupou",
+				"src/CIA/SistemaBundle/Entity/GrupoUsuario.php"
+			],
+			[
+				"servidorcontro",
+				"src/CIA/RelatorioBundle/Controller/ServidorController.php"
+			],
+			[
+				"usuario.js",
+				"src/CIA/SistemaBundle/Resources/public/js/usuario.js"
+			],
+			[
+				"email",
+				"src/CIA/AdministracaoBundle/Resources/views/Default/email.txt.twig"
+			],
+			[
+				"usuario",
+				"src/CIA/SistemaBundle/Entity/Usuario.php"
+			],
+			[
+				"defaultcontro",
+				"src/CIA/AdministracaoBundle/Controller/DefaultController.php"
+			],
+			[
+				"usuariocontoller",
+				"src/CIA/SistemaBundle/Controller/UsuarioController.php"
+			],
+			[
+				"entidade",
+				"src/CIA/AdministracaoBundle/Entity/Entidade.php"
+			],
+			[
+				"changep",
+				"src/CIA/SistemaBundle/Resources/views/Usuario/change_password.html.twig"
+			],
+			[
+				"usuario/new",
+				"src/CIA/SistemaBundle/Resources/views/Usuario/new.html.twig"
+			],
+			[
+				"usuariocontroller",
+				"src/CIA/SistemaBundle/Controller/UsuarioController.php"
+			],
+			[
+				"default/index",
+				"src/CIA/SistemaBundle/Resources/views/Default/index.html.twig"
+			],
+			[
+				"parametroverif",
+				"src/CIA/AdministracaoBundle/Entity/ParametroVerificacao.php"
+			],
+			[
+				"itemparametro",
+				"src/CIA/AdministracaoBundle/Entity/ItemParametroVerificacao.php"
+			],
+			[
+				"acompanhamento",
+				"src/CIA/AdministracaoBundle/Controller/AcompanhamentoController.php"
+			],
+			[
+				"parametro.",
+				"src/CIA/AdministracaoBundle/Entity/Parametro.php"
+			],
+			[
+				"parametroveri",
+				"src/CIA/AdministracaoBundle/Entity/ParametroVerificacao.php"
+			],
+			[
+				"planejamento",
+				"src/CIA/AdministracaoBundle/Entity/Planejamento.php"
+			],
+			[
+				"auditoriacustobeneficiotype",
+				"src/CIA/AdministracaoBundle/Form/AuditoriaCustoBeneficioType.php"
+			],
+			[
+				"auditoria.",
+				"src/CIA/AdministracaoBundle/Entity/Auditoria.php"
+			],
+			[
+				"auditoriacus",
+				"src/CIA/AdministracaoBundle/Entity/AuditoriaCustoBeneficio.php"
+			],
+			[
+				"auditoriacontrolle",
+				"src/CIA/AdministracaoBundle/Controller/AuditoriaController.php"
+			],
+			[
+				"indexcusto",
+				"src/CIA/AdministracaoBundle/Resources/views/Auditoria/indexCustoBeneficio.html.twig"
+			],
+			[
+				"custobene",
+				"src/CIA/AdministracaoBundle/Entity/AuditoriaCustoBeneficio.php"
+			],
+			[
+				"setor",
+				"src/CIA/AdministracaoBundle/Entity/Setor.php"
+			],
+			[
+				"auditoriacustobeneficiosecao",
+				"src/CIA/AdministracaoBundle/Form/AuditoriaCustoBeneficioSecaoServicoType.php"
+			],
+			[
+				"auditoria.css",
+				"src/CIA/AdministracaoBundle/Resources/public/css/auditoria.css"
+			],
+			[
+				"auditoria.js",
+				"src/CIA/AdministracaoBundle/Resources/public/js/auditoria.js"
+			],
+			[
+				"usuariot",
+				"src/CIA/SistemaBundle/Form/UsuarioType.php"
+			],
+			[
+				"permissoes",
+				"src/CIA/SistemaBundle/Form/PermissoesType.php"
+			],
+			[
+				"grupousuario",
+				"src/CIA/SistemaBundle/Entity/GrupoUsuario.php"
+			],
+			[
+				"permissao",
+				"src/CIA/SistemaBundle/Entity/Permissao.php"
+			],
+			[
+				"grupousuariocontroller",
+				"src/CIA/SistemaBundle/Controller/GrupoUsuarioController.php"
+			],
+			[
+				"permissao/edit",
+				"src/CIA/SistemaBundle/Resources/views/Permissao/edit.html.twig"
+			],
+			[
+				"permis",
+				"src/CIA/SistemaBundle/Controller/PermissaoController.php"
+			],
+			[
+				"functions",
+				"vendor/mpdf/mpdf/includes/functions.php"
+			],
+			[
+				"scrit",
+				"sql/scriptAcesso.sql"
+			],
+			[
+				"scri",
+				"sql/scriptAcesso.sql"
+			],
+			[
+				"controleinterno/index",
+				"src/CIA/AdministracaoBundle/Resources/views/ControleInterno/index.html.twig"
+			],
+			[
+				"base.html",
+				"app/Resources/views/base.html.twig"
+			],
+			[
+				"controleinternocontroller",
+				"src/CIA/AdministracaoBundle/Controller/ControleInternoController.php"
+			],
+			[
+				"documentosc",
+				"src/CIA/AdministracaoBundle/Controller/DocumentosController.php"
+			],
+			[
+				"tecnicaauditoria",
+				"src/CIA/AdministracaoBundle/Controller/TecnicaAuditoriaController.php"
+			],
+			[
+				"recursocontro",
+				"src/CIA/AdministracaoBundle/Controller/RecursoController.php"
+			],
+			[
+				"parametrov",
+				"src/CIA/AdministracaoBundle/Controller/ParametroVerificacaoController.php"
+			],
+			[
+				"item",
+				"src/CIA/AdministracaoBundle/Entity/ItemParametroVerificacao.php"
+			],
+			[
+				"secaocontroller",
+				"src/CIA/AdministracaoBundle/Controller/SecaoController.php"
+			],
+			[
+				"secao",
+				"src/CIA/AdministracaoBundle/Entity/Secao.php"
+			],
+			[
+				"servico",
+				"src/CIA/AdministracaoBundle/Entity/Servico.php"
+			],
+			[
+				"setorcontro",
+				"src/CIA/AdministracaoBundle/Controller/SetorController.php"
+			],
+			[
+				"servidorcontroller",
+				"src/CIA/AdministracaoBundle/Controller/ServidorController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/davi/Desenvolvimento/audin.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true
+}

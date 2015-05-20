@@ -1,0 +1,33 @@
+<h1>Nova Informação Básica</h1>
+
+<%= form_for :informacao, url: informacao_index_path do |f| %>
+	<% if @informacao.errors.any? %>
+    <div id="error_explanation">
+      <h2>
+        Este formulário possui <%= pluralize(@informacao.errors.count, "erro") %>:
+      </h2>
+      <ul>
+        <% @informacao.errors.full_messages.each do |msg| %>
+          <li><%= msg %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <p>
+    <%= f.label :curso %><br>
+    <%= f.text_field :curso %>
+  </p>
+ 
+  <p>
+    <%= f.label :descricao, 'Descrição' %><br>
+    <%= f.text_area :descricao %>
+  </p>
+ 
+  <p>
+    <%= f.submit 'Salvar Informação' %>
+    <%= f.submit 'Limpar', :type => 'reset' %>
+  </p>
+<% end %>
+
+<%= link_to 'Voltar', informacao_index_path %>

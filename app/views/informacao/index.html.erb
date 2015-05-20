@@ -1,0 +1,22 @@
+<h1>Lista de Informações</h1>
+ 
+ <%= link_to 'Nova Informação', new_informacao_path %>
+<table>
+  <tr>
+    <th>Curso</th>
+    <th>Descrição</th>
+    <th colspan="2"></th>
+  </tr>
+ 
+  <% @informacoes.each do |informacao| %>
+    <tr>
+      <td><%= informacao.curso %></td>
+      <td><%= informacao.descricao %></td>
+      <td><%= link_to 'Ver', informacao_path(informacao) %></td>
+      <td><%= link_to 'Alterar', edit_informacao_path(informacao) %></td>
+      <td><%= link_to 'Deletar', informacao_path(informacao),
+              method: :delete,
+              data: { confirm: 'Tem certeza que deseja deletar este registro?' } %></td>
+    </tr>
+  <% end %>
+</table>

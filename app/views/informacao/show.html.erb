@@ -1,0 +1,12 @@
+<p>
+  <strong>Curso:</strong>
+  <%= @informacao.curso %>
+</p>
+ 
+<p>
+  <strong>Descrição:</strong>
+  <%= @informacao.descricao %>
+</p>
+
+<%= link_to 'Alterar', edit_informacao_path(@informacao) %>
+<%= link_to 'Voltar', informacao_index_path %>
