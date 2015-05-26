@@ -4,6 +4,7 @@ class CreateDisciplinas < ActiveRecord::Migration
       t.string :nome
       t.string :cod_cred
       t.references :informacao, index: true, foreign_key: true
+      t.references :disciplina, index: true, foreign_key: true
 
       t.timestamps null: false
     end

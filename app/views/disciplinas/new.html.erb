@@ -1,0 +1,49 @@
+<h1>Nova Disciplina</h1>
+
+<%= form_for :disciplina, url: disciplinas_path do |f| %>
+	<% if @disciplina.errors.any? %>
+    <div id="error_explanation">
+      <h2>
+        Este formulário possui <%= pluralize(@disciplina.errors.count, "erro") %>:
+      </h2>
+      <ul>
+        <% @disciplina.errors.full_messages.each do |msg| %>
+          <li><%= msg %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <p>
+    <%= f.label :nome %><br>
+    <%= f.text_field :nome %>
+  </p>
+ 
+  <p>
+    <%= f.label :cod_cred, 'Código Crédito' %><br>
+    <%= f.text_field :cod_cred %>
+  </p>
+
+  <p>
+    <%= f.label :informacao, 'Curso' %><br>
+    <%= f.collection_select(:informacao, Informacao.all, :id, :curso, :prompt => "Selecione") %>
+  </p>
+
+  <p>
+    <%= f.label :pre_requisitos, 'Pré Requisito' %><br>
+    <%= f.collection_select(:pre_requisitos, Disciplina.all, :id, :nome, :prompt => "Selecione") %>
+    <input type="button" name="add-list" id="add-list" value="Adicionar" />
+    <div>
+      <ul class="pre-requisito-list">
+        
+      </ul>
+    </div>
+  </p>
+
+  <p>
+    <%= f.submit 'Salvar Disciplina' %>
+    <%= f.submit 'Limpar', :type => 'reset' %>
+  </p>
+<% end %>
+
+<%= link_to 'Voltar', disciplinas_path %>

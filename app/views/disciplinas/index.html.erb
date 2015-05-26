@@ -1,0 +1,22 @@
+<h1>Lista de Disciplinas</h1>
+ 
+ <%= link_to 'Nova Disciplina', new_disciplina_path %>
+<table>
+  <tr>
+    <th>Curso</th>
+    <th>Descrição</th>
+    <th colspan="2"></th>
+  </tr>
+ 
+  <% @disciplinas.each do |disciplina| %>
+    <tr>
+      <td><%= disciplina.nome %></td>
+      <td><%= disciplina.cod_cred %></td>
+      <td><%= link_to 'Ver', disciplina_path(disciplina) %></td>
+      <td><%= link_to 'Alterar', edit_disciplina_path(disciplina) %></td>
+      <td><%= link_to 'Deletar', disciplina_path(disciplina),
+              method: :delete,
+              data: { confirm: 'Tem certeza que deseja deletar este registro?' } %></td>
+    </tr>
+  <% end %>
+</table>
