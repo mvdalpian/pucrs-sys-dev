@@ -34,7 +34,7 @@
     <%= f.collection_select(:pre_requisitos, Disciplina.all, :id, :nome, :prompt => "Selecione") %>
     <input type="button" name="add-list" id="add-list" value="Adicionar" />
     <div>
-      <ul class="pre-requisito-list">
+      <ul id="pre-requisito-list">
         
       </ul>
     </div>

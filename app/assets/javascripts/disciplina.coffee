@@ -1,5 +1,7 @@
-# Place all the behaviors and hooks related to the matching controller here.
-# All this logic will automatically be available in application.js.
-# You can use CoffeeScript in this file: http://coffeescript.org/
+ready = ->
+	$('#add-list').on 'click', =>
+		console.log $('#disciplina_pre_requisitos').val()
 
-$('')
+		$('#pre-requisito-list').append($('<li></li>').append($('<label for="disciplina[pre_requisito][' + $('#pre-requisito-list li').length + ']">')))
+
+$(document).ready(ready)
