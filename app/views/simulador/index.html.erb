@@ -1,0 +1,12 @@
+<h1>Informções necessárias para simular</h1>
+
+<%= form_tag '/simulador/simular', method: 'POST' do %>
+	<p>
+		<label>Curso</label>
+		<%= collection_select(:informacao, :informacao_id, Informacao.all, :id, :curso, :prompt => "Selecione") %>
+	</p>
+	<p>
+		<%= submit_tag 'Simular' %>
+    	<%= submit_tag 'Limpar', :type => 'reset' %>
+	</p>
+<% end %>

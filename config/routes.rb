@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  post 'simulador/simular'
+
+  get 'simulador' => 'simulador#index'
+
   root 'dashboard#index'
 
   resources :informacao
