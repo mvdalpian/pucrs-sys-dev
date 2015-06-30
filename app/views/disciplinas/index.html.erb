@@ -6,6 +6,7 @@
   <tr>
     <th>Disciplina</th>
     <th>Cod Cred</th>
+    <th>Vagas</th>
     <th colspan="2"></th>
   </tr>
  
@@ -13,6 +14,7 @@
     <tr>
       <td><%= disciplina.nome %></td>
       <td><%= disciplina.cod_cred %></td>
+      <td><%= disciplina.vagas %></td>
       <td><%= link_to 'Ver', disciplina_path(disciplina) %></td>
       <td><%= link_to 'Alterar', edit_disciplina_path(disciplina) %></td>
       <td><%= link_to 'Deletar', disciplina_path(disciplina),
