@@ -16,9 +16,6 @@ class DisciplinasController < ApplicationController
     end
 
     def create
-        # raise params.require(:disciplina).permit(:informacao)[:informacao].inspect
-        # raise params[:disciplina][:informacao].inspect
-
         @disciplina = Disciplina.new(disciplina_params)
         @disciplina.informacao = Informacao.find(params[:disciplina][:informacao])
 
@@ -40,10 +37,16 @@ class DisciplinasController < ApplicationController
     end
 
     def destroy
+        @disciplina = Disciplina.find(params[:id])
+
+        # if @disciplina.pos_requisitos.empty?
+            @disciplina.destroy
+        # end
+        redirect_to disciplina_path
     end
 
     private
         def disciplina_params
-            params.require(:disciplina).permit(:nome, :cod_cred)
+            params.require(:disciplina).permit(:nome, :cod_cred, :semestre, :vagas)
         end
 end

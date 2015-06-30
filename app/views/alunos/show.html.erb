@@ -1,0 +1,17 @@
+<p>
+  <strong>Nome:</strong>
+  <%= @aluno.nome %>
+</p>
+ 
+<p>
+  <strong>Cadeiras:</strong>
+  <%= @aluno.cadeiras %>
+</p>
+
+<p>
+  <strong>Curso:</strong>
+  <%= @aluno.informacao.curso %>
+</p>
+
+<%= link_to 'Alterar', edit_aluno_path(@aluno) %>
+<%= link_to 'Voltar', aluno_path %>

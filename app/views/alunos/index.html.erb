@@ -1,0 +1,23 @@
+<h1>Lista de Alunos</h1>
+ 
+<%= link_to 'Dashboard', root_path %><br />
+<%= link_to 'Novo Aluno', new_aluno_path %>
+<table>
+  <tr>
+    <th>Aluno</th>
+    <th>Curso</th>
+    <th colspan="2"></th>
+  </tr>
+ 
+  <% @alunos.each do |aluno| %>
+    <tr>
+      <td><%= aluno.nome %></td>
+      <td><%= aluno.informacao.curso %></td>
+      <td><%= link_to 'Ver', aluno_path(aluno) %></td>
+      <td><%= link_to 'Alterar', edit_aluno_path(aluno) %></td>
+      <td><%= link_to 'Deletar', aluno_path(aluno),
+              method: :delete,
+              data: { confirm: 'Tem certeza que deseja deletar este registro?' } %></td>
+    </tr>
+  <% end %>
+</table>

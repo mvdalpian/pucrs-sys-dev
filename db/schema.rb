@@ -11,10 +11,20 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150526221520) do
+ActiveRecord::Schema.define(version: 20150630180126) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "alunos", force: :cascade do |t|
+    t.string   "nome"
+    t.integer  "cadeiras"
+    t.integer  "informacao_id"
+    t.datetime "created_at",    null: false
+    t.datetime "updated_at",    null: false
+  end
+
+  add_index "alunos", ["informacao_id"], name: "index_alunos_on_informacao_id", using: :btree
 
   create_table "disciplinas", force: :cascade do |t|
     t.string   "nome"
@@ -23,6 +33,8 @@ ActiveRecord::Schema.define(version: 20150526221520) do
     t.integer  "disciplina_id"
     t.datetime "created_at",    null: false
     t.datetime "updated_at",    null: false
+    t.integer  "semestre"
+    t.integer  "vagas"
   end
 
   add_index "disciplinas", ["disciplina_id"], name: "index_disciplinas_on_disciplina_id", using: :btree
@@ -43,6 +55,7 @@ ActiveRecord::Schema.define(version: 20150526221520) do
     t.datetime "updated_at", null: false
   end
 
+  add_foreign_key "alunos", "informacaos"
   add_foreign_key "disciplinas", "disciplinas"
   add_foreign_key "disciplinas", "informacaos"
 end

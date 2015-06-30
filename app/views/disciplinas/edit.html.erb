@@ -25,6 +25,16 @@
   </p>
 
   <p>
+    <%= f.label :semestre %><br>
+    <%= f.number_field :semestre, in: 1..8, step:1 %>
+  </p>
+
+  <p>
+    <%= f.label :vagas %><br>
+    <%= f.number_field :vagas, in: 0..100, step:1 %>
+  </p>
+
+  <p>
     <%= f.label :informacao, 'Curso' %><br>
     <%= f.collection_select(:informacao, Informacao.all, :id, :curso, :prompt => "Selecione") %>
   </p>
