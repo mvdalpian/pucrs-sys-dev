@@ -6,4 +6,8 @@ class Disciplina < ActiveRecord::Base
 	belongs_to :informacao
 	has_and_belongs_to_many :pre_requisitos, class_name: "Disciplina"
 	has_and_belongs_to_many :pos_requisitos, class_name: "Disciplina"
+
+	def nome_cod_cred
+		"#{self.nome} - #{self.cod_cred}"
+	end
 end

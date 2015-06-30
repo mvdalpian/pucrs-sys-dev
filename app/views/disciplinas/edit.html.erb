@@ -1,6 +1,6 @@
 <h1>Alterar Disciplina</h1>
  
-<%= form_for :disciplina, url: informacao_path(@disciplina), method: :patch do |f| %>
+<%= form_for :disciplina, url: disciplina_path(@disciplina), method: :patch do |f| %>
   <% if @disciplina.errors.any? %>
     <div id="error_explanation">
       <h2>
@@ -30,9 +30,9 @@
   </p>
  
   <p>
-    <%= f.submit 'Salvar Informação' %>
+    <%= f.submit 'Salvar Disciplina' %>
   </p>
  
 <% end %>
  
-<%= link_to 'Voltar', informacao_index_path %>
+<%= link_to 'Voltar', disciplina_path %>

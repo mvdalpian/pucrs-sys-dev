@@ -23,7 +23,7 @@ class DisciplinasController < ApplicationController
         @disciplina.informacao = Informacao.find(params[:disciplina][:informacao])
 
         if @disciplina.save
-            redirect_to @disciplina
+            redirect_to action: :index
         else
             render 'new'
         end
@@ -33,10 +33,13 @@ class DisciplinasController < ApplicationController
         @disciplina = Disciplina.find(params[:id])
      
         if @disciplina.update(disciplina_params)
-            redirect_to @disciplina
+            redirect_to action: :index
         else
             render 'edit'
         end
+    end
+
+    def destroy
     end
 
     private
