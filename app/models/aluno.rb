@@ -4,4 +4,5 @@ class Aluno < ActiveRecord::Base
 	validates :informacao, presence: { message: "obrigatório!" }
 
 	belongs_to :informacao
+	has_and_belongs_to_many :disciplinas, class_name: "Disciplina"
 end

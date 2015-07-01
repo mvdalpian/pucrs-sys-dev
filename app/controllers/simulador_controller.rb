@@ -8,7 +8,7 @@ class SimuladorController < ApplicationController
 
 		# raise @alunos.count.inspect
 		@disciplinas.each do |disciplina|
-			raise disciplina.inspect
+			raise disciplina.vagas.inspect
 		end
 	end
 end
