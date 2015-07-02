@@ -1,0 +1,29 @@
+<% @disciplinas.each do |disciplina| %>
+	<p>
+		<label>Disciplina:</label>
+		<%= disciplina.nome %>
+	</p>
+	<p>
+		<label>Semestre:</label>
+		<%= disciplina.nome %>
+	</p>
+	<p>
+		<label>Total de vagas:</label>
+		<%= disciplina.vagas %>
+	</p>
+	<p>
+		<label>Vagas restantes:</label>
+		<%= disciplina.vagas - disciplina.alunos.count %>
+	</p>
+	<p>
+		<label>Alunos:</label>
+		<ul>
+			<% disciplina.alunos.each do |aluno| %>
+				<li><%= aluno.nome %></li>
+			<% end %>
+		</ul>
+	</p>
+	
+<% end %>
+
+<%= link_to 'Voltar', simulador_path %>

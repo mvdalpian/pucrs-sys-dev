@@ -42,12 +42,6 @@
   <p>
     <%= f.label :pre_requisitos, 'Pré Requisito' %><br>
     <%= f.collection_select(:pre_requisito, Disciplina.all, :id, :nome_cod_cred, :prompt => "Selecione") %>
-    <!-- <input type="button" name="add-list" id="add-list" value="Adicionar" />
-    <div>
-      <ul id="pre-requisito-list">
-        
-      </ul>
-    </div> -->
   </p>
 
   <p>

@@ -27,6 +27,16 @@ ActiveRecord::Schema.define(version: 20150702180750) do
 
   add_index "alunos", ["informacao_id"], name: "index_alunos_on_informacao_id", using: :btree
 
+  create_table "alunos_disciplinas", force: :cascade do |t|
+    t.integer  "disciplina_id"
+    t.integer  "aluno_id"
+    t.datetime "created_at",    null: false
+    t.datetime "updated_at",    null: false
+  end
+
+  add_index "alunos_disciplinas", ["aluno_id"], name: "index_alunos_disciplinas_on_aluno_id", using: :btree
+  add_index "alunos_disciplinas", ["disciplina_id"], name: "index_alunos_disciplinas_on_disciplina_id", using: :btree
+
   create_table "disciplinas", force: :cascade do |t|
     t.string   "nome"
     t.string   "cod_cred"
@@ -49,6 +59,8 @@ ActiveRecord::Schema.define(version: 20150702180750) do
   end
 
   add_foreign_key "alunos", "informacaos"
+  add_foreign_key "alunos_disciplinas", "alunos"
+  add_foreign_key "alunos_disciplinas", "disciplinas"
   add_foreign_key "disciplinas", "disciplinas"
   add_foreign_key "disciplinas", "informacaos"
 end

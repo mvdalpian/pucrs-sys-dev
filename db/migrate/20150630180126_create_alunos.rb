@@ -7,5 +7,12 @@ class CreateAlunos < ActiveRecord::Migration
 
       t.timestamps null: false
     end
+
+    create_table :alunos_disciplinas do |t|
+      t.belongs_to :disciplina, index: true, foreign_key: true
+      t.belongs_to :aluno, index: true, foreign_key: true
+
+      t.timestamps null: false
+    end
   end
 end

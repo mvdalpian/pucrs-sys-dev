@@ -2,6 +2,7 @@ Rails.application.routes.draw do
   post 'simulador/simular'
 
   get 'simulador' => 'simulador#index'
+  get 'simulador_show/:semestre' => 'simulador#show', as: 'simulador_show'
 
   root 'dashboard#index'
 
