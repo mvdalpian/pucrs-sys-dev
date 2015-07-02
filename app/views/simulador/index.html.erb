@@ -8,6 +8,10 @@
 		<%= collection_select(:informacao, :informacao_id, Informacao.all, :id, :curso, :prompt => "Selecione") %>
 	</p>
 	<p>
+		<label>Semestre</label>
+	    <%= number_field :semestre, :semestre, in: 1..8, step:1 %>
+	</p>
+	<p>
 		<%= submit_tag 'Simular' %>
     	<%= submit_tag 'Limpar', :type => 'reset' %>
 	</p>

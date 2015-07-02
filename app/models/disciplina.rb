@@ -8,8 +8,8 @@ class Disciplina < ActiveRecord::Base
 	                  numericality: { only_integer: true, message: "não é um número!" }
 
 	belongs_to :informacao
-	has_and_belongs_to_many :pre_requisitos, class_name: "Disciplina"
-	has_and_belongs_to_many :pos_requisitos, class_name: "Disciplina"
+	has_many :pos_requisitos, class_name: "Disciplina"
+	belongs_to :pre_requisito, class_name: "Disciplina", foreign_key: "disciplina_id"
 
 	has_and_belongs_to_many :alunos, class_name: "Aluno"
 

@@ -6,6 +6,7 @@
   <tr>
     <th>Aluno</th>
     <th>Curso</th>
+    <th>Semestre</th>
     <th colspan="2"></th>
   </tr>
  
@@ -13,6 +14,7 @@
     <tr>
       <td><%= aluno.nome %></td>
       <td><%= aluno.informacao.curso %></td>
+      <td><%= aluno.semestre %></td>
       <td><%= link_to 'Ver', aluno_path(aluno) %></td>
       <td><%= link_to 'Alterar', edit_aluno_path(aluno) %></td>
       <td><%= link_to 'Deletar', aluno_path(aluno),

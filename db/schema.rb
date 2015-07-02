@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150630201925) do
+ActiveRecord::Schema.define(version: 20150702180750) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -22,6 +22,7 @@ ActiveRecord::Schema.define(version: 20150630201925) do
     t.integer  "informacao_id"
     t.datetime "created_at",    null: false
     t.datetime "updated_at",    null: false
+    t.integer  "semestre"
   end
 
   add_index "alunos", ["informacao_id"], name: "index_alunos_on_informacao_id", using: :btree
@@ -30,21 +31,15 @@ ActiveRecord::Schema.define(version: 20150630201925) do
     t.string   "nome"
     t.string   "cod_cred"
     t.integer  "informacao_id"
+    t.integer  "disciplina_id"
     t.datetime "created_at",    null: false
     t.datetime "updated_at",    null: false
     t.integer  "semestre"
     t.integer  "vagas"
   end
 
+  add_index "disciplinas", ["disciplina_id"], name: "index_disciplinas_on_disciplina_id", using: :btree
   add_index "disciplinas", ["informacao_id"], name: "index_disciplinas_on_informacao_id", using: :btree
-
-  create_table "disciplinas_disciplinas", force: :cascade do |t|
-    t.integer "pre_requisito_id", null: false
-    t.integer "pos_requisito_id", null: false
-  end
-
-  add_index "disciplinas_disciplinas", ["pos_requisito_id"], name: "index_disciplinas_disciplinas_on_pos_requisito_id", using: :btree
-  add_index "disciplinas_disciplinas", ["pre_requisito_id"], name: "index_disciplinas_disciplinas_on_pre_requisito_id", using: :btree
 
   create_table "informacaos", force: :cascade do |t|
     t.string   "curso"
@@ -54,5 +49,6 @@ ActiveRecord::Schema.define(version: 20150630201925) do
   end
 
   add_foreign_key "alunos", "informacaos"
+  add_foreign_key "disciplinas", "disciplinas"
   add_foreign_key "disciplinas", "informacaos"
 end

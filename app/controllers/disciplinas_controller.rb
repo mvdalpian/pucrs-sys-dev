@@ -16,8 +16,12 @@ class DisciplinasController < ApplicationController
     end
 
     def create
+        # raise params.inspect
         @disciplina = Disciplina.new(disciplina_params)
         @disciplina.informacao = Informacao.find(params[:disciplina][:informacao])
+        if !params[:disciplina][:pre_requisito].blank?
+            @disciplina.pre_requisito = Disciplina.find(params[:disciplina][:pre_requisito])
+        end
 
         if @disciplina.save
             redirect_to action: :index

@@ -47,6 +47,6 @@ class AlunosController < ApplicationController
 
 	private
 		def alunos_params
-            params.require(:aluno).permit(:nome, :cadeiras)
+            params.require(:aluno).permit(:nome, :cadeiras, :semestre)
         end
 end
